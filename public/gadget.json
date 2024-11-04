@@ -1,0 +1,119 @@
+[
+    {
+        "item": "Asus P1511CMA Laptop",
+        "price": "$599",
+        "short_description": "Lightweight laptop with powerful performance and sleek design.",
+        "specification": {
+            "screen_size": "15.6 inches",
+            "battery": "8 hours",
+            "processor": "Intel Celeron N4020",
+            "storage": "1 TB HDD",
+            "RAM": "8 GB",
+            "graphics": "Integrated Intel UHD Graphics"
+        },
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/99v3WhQ/ASUS-P1511-CMA-BR693-W-Intel-Celeron-N4020-1-TB-HDD-Laptop-2.jpg"
+    },
+    {
+        "item": "GoPro 13 Black",
+        "price": "$399",
+        "short_description": "Ultimate action camera with advanced stabilization and 4K video.",
+        "specification": {
+            "sensor": "23 MP",
+            "video_resolution": "4K at 60fps",
+            "battery": "120 minutes",
+            "features": ["Waterproof", "Voice Control", "Live Streaming"]
+        },
+        "rating": 4.8,
+        "image": "https://i.ibb.co.com/4dSP7XN/gopro.jpg"
+    },
+    {
+        "item": "Headset for Life",
+        "price": "$79",
+        "short_description": "Comfortable over-ear headphones with excellent sound quality.",
+        "specification": {
+            "driver_size": "40 mm",
+            "connectivity": "Bluetooth 5.0",
+            "battery": "20 hours",
+            "features": ["Noise Cancellation", "Built-in Microphone"]
+        },
+        "rating": 4.3,
+        "image": "https://i.ibb.co.com/3z599Lt/41tp0-JPPlm-L-AC-UF1000-1000-QL80.jpg"
+    },
+    {
+        "item": "Mouse",
+        "price": "$29",
+        "short_description": "Ergonomic wireless mouse with adjustable DPI and customizable buttons.",
+        "specification": {
+            "connectivity": "Wireless USB",
+            "DPI": "800 - 2400",
+            "battery": "1 year",
+            "features": ["Ergonomic Design", "Customizable Buttons"]
+        },
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/LdVCkJF/mx-ergo-gallery-02.png"
+    },
+    {
+        "item": "Pager",
+        "price": "$29",
+        "short_description": "Classic pager for simple and reliable communication.",
+        "specification": {
+            "battery": "1 year",
+            "range": "Up to 5 miles",
+            "features": ["Vibration Alert", "Lightweight"]
+        },
+        "rating": 3.9,
+        "image": "https://i.ibb.co.com/3z599Lt/41tp0-JPPlm-L-AC-UF1000-1000-QL80.jpg"
+    },
+    {
+        "item": "Xbox",
+        "price": "$499",
+        "short_description": "Next-gen gaming console with stunning graphics and performance.",
+        "specification": {
+            "storage": "1 TB SSD",
+            "processor": "Custom AMD CPU",
+            "RAM": "16 GB",
+            "features": ["4K Gaming", "Game Pass Subscription"]
+        },
+        "rating": 4.9,
+        "image": "https://i.ibb.co.com/pLrn026/xbox.png"
+    },
+    {
+        "item": "Nokia 105",
+        "price": "$39",
+        "short_description": "Basic phone with long battery life and essential features.",
+        "specification": {
+            "battery": "1000 mAh",
+            "screen_size": "1.8 inches",
+            "connectivity": "2G",
+            "features": ["FM Radio", "Flashlight"]
+        },
+        "rating": 4.0,
+        "image": "https://i.ibb.co.com/LCZgVj0/nokia105"
+    },
+    {
+        "item": "GoPro Hero 6",
+        "price": "$299",
+        "short_description": "Robust action camera with 4K video recording and advanced features.",
+        "specification": {
+            "sensor": "12 MP",
+            "video_resolution": "4K at 30fps",
+            "battery": "90 minutes",
+            "features": ["Waterproof", "Image Stabilization"]
+        },
+        "rating": 4.7,
+        "image": "https://i.ibb.co.com/DbyFKnt/gopro-hero-6-black-4k-ultra-hd-action-camera-Bo-QF.jpg"
+    },
+    {
+        "item": "Hoco Gaming Headphone",
+        "price": "$59",
+        "short_description": "Gaming headphones with immersive sound and comfortable fit.",
+        "specification": {
+            "driver_size": "50 mm",
+            "connectivity": "3.5 mm jack",
+            "features": ["Noise Isolation", "Adjustable Headband"]
+        },
+        "rating": 4.4,
+        "image": "https://i.ibb.co.com/3Tcz1PB/Hoco-W104-Gaming-Headphone-2.jpg"
+    }
+]

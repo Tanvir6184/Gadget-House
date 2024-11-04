@@ -1,7 +1,11 @@
-import React from "react";
+import { createBrowserRouter } from "react-router-dom";
+import MainFile from "./Main-layout-Files/MainFile";
 
-const Routes = () => {
-  return <div></div>;
-};
+const routes = createBrowserRouter([
+  {
+    path: "/",
+    element: <MainFile></MainFile>,
+  },
+]);
 
-export default Routes;
+export default routes;
